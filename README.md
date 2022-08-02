@@ -7,6 +7,7 @@ Assignment 4 W9D2 - SDA - Software QA Bootcamp
 * [Answer](#answer)
 * [Output Screenshots](#output-screenshots)
 
+---
 
 ## Question
 - STEP 1: Evoke the browser
@@ -35,7 +36,7 @@ I opened the website, then take web elements, and then add them to the code.
 <img src="https://user-images.githubusercontent.com/48597284/182480637-d5564796-a564-40ea-9be0-0d5d962d2389.png" width=60% height=60%>
 </p>
 
-
+---
 ## Output Screenshots:
 
 <p align="center">
