@@ -36,7 +36,7 @@ public class ChromeWebDriverAss4W9D3 {
 	 * @throws InterruptedException
 	 */
 	@Test
-	public void LearnEnglishWebSite() throws InterruptedException {
+	public void Scrollbar() throws InterruptedException {
 
 		// Scrollbar to the specific element
 		WebElement checkbox1 = driver.findElement(By.xpath("//a[normalize-space()='Get started for free']"));
